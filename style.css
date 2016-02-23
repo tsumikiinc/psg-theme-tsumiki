@@ -604,6 +604,11 @@ p[id] {
   margin-left: -50px;
 }
 
+.psg-logo > svg {
+  width: 100%;
+  height: auto;
+}
+
 .psg-ComponentList__item {
   display: block;
   color: #3f526b;
