@@ -1,6 +1,6 @@
 {
   "name": "psg-theme-tsumiki",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TSUMIKI Inc. theme of postcss-style-guide",
   "main": "index.js",
   "scripts": {
