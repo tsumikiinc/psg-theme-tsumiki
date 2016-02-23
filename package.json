@@ -1,21 +1,21 @@
 {
-  "name": "psg-theme-default",
-  "version": "1.0.1",
-  "description": "Default theme of postcss-style-guide",
+  "name": "psg-theme-tsumiki",
+  "version": "1.0.0",
+  "description": "TSUMIKI Inc. theme of postcss-style-guide",
   "main": "index.js",
   "scripts": {
     "test": "tape test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/morishitter/psg-theme-default/git"
+    "url": "git://github.com/tsumikiinc/psg-theme-tsumiki.git"
   },
   "keywords": [
     "psg-theme",
     "style-guide",
     "postcss"
   ],
-  "author": "Masaaki Morishita",
+  "author": "TSUMIKI Inc.",
   "license": "MIT",
   "dependencies": {
     "suitcss-base": "^1.0.1"
